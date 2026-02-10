@@ -1,0 +1,11 @@
+{
+  "what": "GitHub profile repository containing the public README and profile presentation assets.",
+  "why": "Maintains a single source for personal profile content, links, and portfolio visibility.",
+  "tags": [
+    "github",
+    "profile",
+    "readme"
+  ],
+  "featured": false,
+  "order": 50
+}
